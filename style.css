@@ -37,9 +37,10 @@ button{
     font-weight: bold;
 }
 
-h2{
+h1{
     cursor: pointer;
     text-align: start;
+    font-size: 28px;
     /* font-size: 24px; */
     /* border: 2px solid var(--Black); */
     margin: 20px 0;
@@ -66,11 +67,12 @@ h2{
     text-align: start;
     margin-bottom: 10px;
     color: var(--Grey);
+    line-height: 1.5;
 }
 
-.published{
+/* .published{
     color: var(--Grey);
-}
+} */
 
 .text_contain{
     display: flex;
