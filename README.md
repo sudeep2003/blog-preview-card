@@ -27,8 +27,8 @@ For the Frontend Mentor Blog preview card challenge, I created a Blog preview ca
 
 ### Links
 
-- Solution URL: [https://github.com/sudeep2003/ip-address-tracker.git](https://github.com/sudeep2003/ip-address-tracker.git)
-- Live Site URL: [https://sudeep2003.github.io/ip-address-tracker](https://sudeep2003.github.io/ip-address-tracker)
+- Solution URL: [https://github.com/sudeep2003/blog-preview-card.git](https://github.com/sudeep2003/blog-preview-card.git)
+- Live Site URL: [https://sudeep2003.github.io/blog-preview-card](https://sudeep2003.github.io/blog-preview-card)
 
 ### Built with
 
